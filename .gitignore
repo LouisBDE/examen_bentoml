@@ -3,3 +3,6 @@
 /venv
 /clean_data.csv
 *.tar
+*.tar.gz
+__pycache__/
+.pytest_cache/
